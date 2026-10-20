@@ -5,18 +5,6 @@ local Python module, data files, and images it uses. Keep the notebook and the
 `voting_functions.py`, `CVR files/`, and `SP images/` paths together as shown;
 the notebook reads these files using relative paths.
 
-## Open in Google Colab
-
-[Open the notebook in Google Colab](https://colab.research.google.com/github/gmorre/Voting-Systems-alpha/blob/main/Voting_Systems_alpha.ipynb).
-Sign in to Google if asked, select **Connect**, then choose **Runtime → Run
-all**. The first cell downloads the supporting files and installs the required
-packages. Some activities pause to ask for input; type an answer in the prompt
-and press Enter. If you start a new Colab runtime later, run all cells again.
-
-Colab runs a temporary copy. Changes students make there do not change this
-GitHub repository. They can use **File → Save a copy in Drive** if they want
-their own copy to keep working in.
-
 ## Run the notebook locally
 
 1. Install Python 3.11 through 3.13 and JupyterLab.
