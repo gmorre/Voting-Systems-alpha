@@ -1,0 +1,5 @@
+jupyterlab
+numpy
+pandas
+poliscipy==0.1.0
+votekit==3.3.0
